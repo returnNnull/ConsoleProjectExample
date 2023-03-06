@@ -1,0 +1,15 @@
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/bin/Debug/net7.0/ExceptionExample
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/bin/Debug/net7.0/ExceptionExample.deps.json
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/bin/Debug/net7.0/ExceptionExample.runtimeconfig.json
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/bin/Debug/net7.0/ExceptionExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/bin/Debug/net7.0/ExceptionExample.pdb
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.csproj.AssemblyReference.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.AssemblyInfoInputs.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.AssemblyInfo.cs
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.csproj.CoreCompileInputs.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/refint/ExceptionExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.pdb
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ExceptionExample.genruntimeconfig.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ExceptionExample/obj/Debug/net7.0/ref/ExceptionExample.dll

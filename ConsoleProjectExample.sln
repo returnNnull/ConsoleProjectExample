@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProjectExample", "ConsoleProjectExample\ConsoleProjectExample.csproj", "{B8D6AEBC-7044-4DE9-862E-00E30A57AA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionExample", "ExceptionExample\ExceptionExample.csproj", "{B871FA69-5CAA-4CD6-8A17-AC669CAC4EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncOperationExample", "AsyncOperationExample\AsyncOperationExample.csproj", "{C9287D51-F322-4959-B28B-239588399D12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D6AEBC-7044-4DE9-862E-00E30A57AA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D6AEBC-7044-4DE9-862E-00E30A57AA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D6AEBC-7044-4DE9-862E-00E30A57AA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D6AEBC-7044-4DE9-862E-00E30A57AA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B871FA69-5CAA-4CD6-8A17-AC669CAC4EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B871FA69-5CAA-4CD6-8A17-AC669CAC4EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B871FA69-5CAA-4CD6-8A17-AC669CAC4EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B871FA69-5CAA-4CD6-8A17-AC669CAC4EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9287D51-F322-4959-B28B-239588399D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9287D51-F322-4959-B28B-239588399D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9287D51-F322-4959-B28B-239588399D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9287D51-F322-4959-B28B-239588399D12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

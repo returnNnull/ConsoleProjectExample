@@ -1,0 +1,15 @@
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/bin/Debug/net7.0/ConsoleProjectExample
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/bin/Debug/net7.0/ConsoleProjectExample.deps.json
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/bin/Debug/net7.0/ConsoleProjectExample.runtimeconfig.json
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/bin/Debug/net7.0/ConsoleProjectExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/bin/Debug/net7.0/ConsoleProjectExample.pdb
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.csproj.AssemblyReference.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.AssemblyInfoInputs.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.AssemblyInfo.cs
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.csproj.CoreCompileInputs.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/refint/ConsoleProjectExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.pdb
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ConsoleProjectExample.genruntimeconfig.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/ConsoleProjectExample/obj/Debug/net7.0/ref/ConsoleProjectExample.dll

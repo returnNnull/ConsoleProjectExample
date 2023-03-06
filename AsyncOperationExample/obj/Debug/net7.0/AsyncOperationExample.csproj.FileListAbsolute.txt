@@ -1,0 +1,15 @@
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/bin/Debug/net7.0/AsyncOperationExample
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/bin/Debug/net7.0/AsyncOperationExample.deps.json
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/bin/Debug/net7.0/AsyncOperationExample.runtimeconfig.json
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/bin/Debug/net7.0/AsyncOperationExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/bin/Debug/net7.0/AsyncOperationExample.pdb
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.csproj.AssemblyReference.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.AssemblyInfoInputs.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.AssemblyInfo.cs
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.csproj.CoreCompileInputs.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/refint/AsyncOperationExample.dll
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.pdb
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/AsyncOperationExample.genruntimeconfig.cache
+/Users/administrator/RiderProjects/ConsoleProjectExample/AsyncOperationExample/obj/Debug/net7.0/ref/AsyncOperationExample.dll
